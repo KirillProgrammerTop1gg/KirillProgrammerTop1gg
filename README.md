@@ -8,4 +8,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirillprogrammertop1gg&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-profile-trophy.vercel.app/?username=kirillprogrammertop1gg&theme=juicyfresh&no-bg=true" />
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa)
+<img src="https://widgetbite.com/stats/kirillprogrammertop1gg" alt="watching_count" />
