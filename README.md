@@ -7,3 +7,4 @@
 <img src="https://myreadme.vercel.app/api/embed/kirillprogrammertop1gg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirillprogrammertop1gg&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-profile-trophy.vercel.app/?username=kirillprogrammertop1gg&theme=juicyfresh&no-bg=true" />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
