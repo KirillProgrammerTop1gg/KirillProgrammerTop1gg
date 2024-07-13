@@ -4,3 +4,6 @@
 [![KirillProgrammerTop1gg's GitHub | Topics Over Time](https://stats.quira.sh/KirillProgrammerTop1gg/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=KirillProgrammerTop1gg)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirillprogrammertop1gg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirillprogrammertop1gg&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/kirillprogrammertop1gg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirillprogrammertop1gg&theme=tokyonight" alt="mystreak"/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillprogrammertop1gg&repo=js-hws)](https://github.com/kirillprogrammertop1gg/js-hws)
