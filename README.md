@@ -9,6 +9,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=kirillprogrammertop1gg&theme=juicyfresh&no-bg=true" />
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 <img src="https://komarev.com/ghpvc/?username=kirillprogrammertop1gg&color=brightgreen" alt="watching_count" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirillprogrammertop1gg.kirillprogrammertop1gg)
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
